@@ -1,0 +1,24 @@
+p{
+    color: #C07F00;
+    font-size: 30px ;
+    font-family:'Times New Roman', Times, serif  ;
+
+}
+h1{
+    color: #146C94; /*Colodr del titulo*/
+    font-size: 70px;/*Tamaño del titulo*/
+    text-align: center;/*Sirve para centrar el titulo*/
+    font-family: 'Times New Roman', Times, serif;  /*Cambia la caligrafía*/
+
+}
+div{
+    background-color: rgb(159, 233, 247); /*Color del fondo de la pagina*/
+  }
+img{
+    width: 500px ; /*para el ancho la imagen*/
+    height: 600px  ;/*para la altura de la imagen*/
+    border-radius: 40%;/*Para darle un radio a la imagen*/
+}
+.otroDIV{
+    background-color: mediumslateblue;
+}
