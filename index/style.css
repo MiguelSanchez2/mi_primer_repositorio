@@ -1,0 +1,19 @@
+p{
+    color: #f0b154;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: #a0572d;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+div{
+    background-color: #f6ecde;
+}
+img{
+    width: 500px ; 
+    height: 600px  ;
+    
+}
